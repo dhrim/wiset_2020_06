@@ -5,7 +5,7 @@
 
 # 대상
 
-python으로 기본적인 프로그래밍을 할 수있는 학생.
+python으로 기본적인 프로그래밍을 할 수있는 개발자 혹은 개발 희망자.
 
 
 # 교육 상세 목표
@@ -268,8 +268,7 @@ TensorFlow/Keras
         - linear model : https://www.kaggle.com/aerdem4/covid-19-basic-model-not-leaky
 
 
-- 딥러닝을 사용한 논문 리뷰 : [딥러닝을 사용한 의학 논문](https://docs.google.com/presentation/d/1SZ-m4XVepS94jzXDL8VFMN2dh9s6jaN5fVsNhQ1qwEU/edit?usp=sharing)
-- 딥러닝 프로젝트 계획 리뷰
+- 딥러닝 개발 계획 리뷰
 - 딥러닝 채용 공고 리뷰
 
 
