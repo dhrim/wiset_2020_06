@@ -286,13 +286,16 @@ TensorFlow/Keras
         - [linux.md](material/linux.md)
         - [linux_exercise.md](material/linux_exercise.md)
 - pandas, matplot : [ibrary.md](material/library.md)
-
+- Keras Function API style
+    - 소개 : TODO
+    - multi input single output : [combined_model.ipynb](material/deep_learning/combined_model.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/wiset_2020_06/blob/master/material/deep_learning/combined_model.ipynb)
+    - single input multi output : TODO
 
 기타
-- [디노이징 AutoEncoder](material/deep_learning/denoising_autoencoder.ipynb)
-- [흥미로운 딥러닝 결과](material/deep_learning/some_interesting_deep_learning.pptx)
-- [yolo를 사용한 실시간 불량품 탐지 사례](material/deep_learning/yolo_in_field.mp4)
-- [GAN을 사용한 생산설비 이상 탐지](material/deep_learning/anomaly_detection_using_gan.pptx)
-- [이상탐지 동영상](material/deep_learning/drillai_anomaly_detect.mp4)
+- 디노이징 AutoEncoder : [denoising_autoencoder.ipynb](material/deep_learning/denoising_autoencoder.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/wiset_2020_06/blob/master/material/deep_learning/denoising_autoencoder.ipynb)
+- 흥미로운 딥러닝 결과 : [some_interesting_deep_learning.pptx](material/deep_learning/some_interesting_deep_learning.pptx)
+- yolo를 사용한 실시간 불량품 탐지 사례 : [yolo_in_field.mp4](material/deep_learning/yolo_in_field.mp4)
+- GAN을 사용한 생산설비 이상 탐지 : [anomaly_detection_using_gan.pptx](material/deep_learning/anomaly_detection_using_gan.pptx)
+- 이상탐지 동영상 : [drillai_anomaly_detect.mp4](material/deep_learning/drillai_anomaly_detect.mp4)
 
 
