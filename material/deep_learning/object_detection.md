@@ -116,3 +116,4 @@ path/to/img2.jpg 120,300,250,600,2
 python train.py
 ```
 
+- 실습 자료 : [yolo3_object_dection_and_train_custom_data.ipynb](yolo3_object_dection_and_train_custom_data.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/wiset_2020_06/blob/master/material/deep_learning/yolo3_object_dection_and_train_custom_data.ipynb)
