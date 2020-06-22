@@ -224,19 +224,27 @@ TensorFlow/Keras
 ## 2일차
 
 - DNN in Keras : [dnn_in_keras.ipynb](material/deep_learning/dnn_in_keras.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/wiset_2020_06/blob/master/material/deep_learning/dnn_in_keras.ipynb)
-- 분류기로서 DNN : [dnn_as_a_classifier.ipynb](material/deep_learning/dnn_as_a_classifier.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/wiset_2020_06/blob/master/material/deep_learning/dnn_as_a_classifier.ipynb)
-- DNN IRIS 분류: [dnn_iris_classification.ipynb](material/deep_learning/dnn_iris_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/wiset_2020_06/blob/master/material/deep_learning/dnn_iris_classification.ipynb)
-- DNN MNIST 분류 : [dnn_mnist.ipynb](material/deep_learning/dnn_mnist.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/wiset_2020_06/blob/master/material/deep_learning/dnn_mnist.ipynb)
+- DNN
+    - 분류기로서 DNN : [dnn_as_a_classifier.ipynb](material/deep_learning/dnn_as_a_classifier.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/wiset_2020_06/blob/master/material/deep_learning/dnn_as_a_classifier.ipynb)
+    - IRIS 분류: [dnn_iris_classification.ipynb](material/deep_learning/dnn_iris_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/wiset_2020_06/blob/master/material/deep_learning/dnn_iris_classification.ipynb)
+    - MNIST 분류 : [dnn_mnist.ipynb](material/deep_learning/dnn_mnist.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/wiset_2020_06/blob/master/material/deep_learning/dnn_mnist.ipynb)
+- 디노이징 AutoEncoder : [denoising_autoencoder.ipynb](material/deep_learning/denoising_autoencoder.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/wiset_2020_06/blob/master/material/deep_learning/denoising_autoencoder.ipynb)
+- CNN
+    - MNIST 영상분류 : [cnn_mnist.ipynb](material/deep_learning/cnn_mnist.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/wiset_2020_06/blob/master/material/deep_learning/cnn_mnist.ipynb)
+    - CIFAR10 컬러영상분류 : [cnn_cifar10.ipynb](material/deep_learning/cnn_cifar10.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/wiset_2020_06/blob/master/material/deep_learning/cnn_cifar10.ipynb)
+    - IRIS 분류 : [iris_cnn.ipynb](material/deep_learning/iris_cnn.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/wiset_2020_06/blob/master/material/deep_learning/iris_cnn.ipynb)
 
 
 <br>
 
 ## 3일차
-- CNN 영상분류 - MNIST : [cnn_mnist.ipynb](material/deep_learning/cnn_mnist.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/wiset_2020_06/blob/master/material/deep_learning/cnn_mnist.ipynb)
-- CNN 컬러영상분류 - CIFAR10 : [cnn_cifar10.ipynb](material/deep_learning/cnn_cifar10.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/wiset_2020_06/blob/master/material/deep_learning/cnn_cifar10.ipynb)
-- CNN IRIS 분류 : [iris_cnn.ipynb](material/deep_learning/iris_cnn.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/wiset_2020_06/blob/master/material/deep_learning/iris_cnn.ipynb)
 - VGG로 영상 분류, 전이학습 : [VGG16_classification_and_cumtom_data_training.ipynb](material/deep_learning/VGG16_classification_and_cumtom_data_training.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/wiset_2020_06/blob/master/material/deep_learning/VGG16_classification_and_cumtom_data_training.ipynb)
 - 알파고 이해하기 : [understanding_ahphago.pptx](material/deep_learning/understanding_ahphago.pptx)
+- 영역 분할(segmentation) - U-Net : [unet_segementation.ipynb](material/deep_learning/unet_segementation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/wiset_2020_06/blob/master/material/deep_learning/unet_segementation.ipynb)
+- 얼굴 인식(face recognition) : [Face_Recognition.ipynb](material/deep_learning/Face_Recognition.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/wiset_2020_06/blob/master/material/deep_learning/Face_Recognition.ipynb)
+- GAN 이해하기 : [deep_learning_intro.pptx](material/deep_learning//deep_learning_intro.pptx), [dcgan_mnist.ipynb](material/deep_learning/dcgan_mnist.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/wiset_2020_06/blob/master/material/deep_learning/dcgan_mnist.ipynb)
+- RNN 이해하기
+- 강화학습 이해하기
 
 <br>
 
@@ -246,11 +254,11 @@ TensorFlow/Keras
     - YOLO : [object_detection.md](material/deep_learning/object_detection.md)
     - RetinaNet : [object_detection_retinanet.ipynb](material/deep_learning/object_detection_retinanet.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/wiset_2020_06/blob/master/material/deep_learning/object_detection_retinanet.ipynb)
     - annotation tool : https://github.com/virajmavani/semi-auto-image-annotation-tool
-- 영역 분할(segmentation) - U-Net : [unet_segementation.ipynb](material/deep_learning/unet_segementation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/wiset_2020_06/blob/master/material/deep_learning/unet_segementation.ipynb)
-- 얼굴 인식(face recognition) : [Face_Recognition.ipynb](material/deep_learning/Face_Recognition.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/wiset_2020_06/blob/master/material/deep_learning/Face_Recognition.ipynb)
-- GAN 이해하기 : [deep_learning_intro.pptx](material/deep_learning//deep_learning_intro.pptx), [dcgan_mnist.ipynb](material/deep_learning/dcgan_mnist.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/wiset_2020_06/blob/master/material/deep_learning/dcgan_mnist.ipynb)
-- RNN 이해하기
-- 강화학습 이해하기
+- Keras Function API style
+    - 소개 : TODO
+    - multi input single output : [combined_model.ipynb](material/deep_learning/combined_model.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/wiset_2020_06/blob/master/material/deep_learning/combined_model.ipynb)
+    - single input multi output : TODO
+- 딥러닝 개발 계획 리뷰
 
 
 <br>
@@ -268,7 +276,6 @@ TensorFlow/Keras
         - linear model : https://www.kaggle.com/aerdem4/covid-19-basic-model-not-leaky
 
 
-- 딥러닝 개발 계획 리뷰
 - 딥러닝 채용 공고 리뷰
 
 
@@ -286,13 +293,8 @@ TensorFlow/Keras
         - [linux.md](material/linux.md)
         - [linux_exercise.md](material/linux_exercise.md)
 - pandas, matplot : [ibrary.md](material/library.md)
-- Keras Function API style
-    - 소개 : TODO
-    - multi input single output : [combined_model.ipynb](material/deep_learning/combined_model.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/wiset_2020_06/blob/master/material/deep_learning/combined_model.ipynb)
-    - single input multi output : TODO
 
-기타
-- 디노이징 AutoEncoder : [denoising_autoencoder.ipynb](material/deep_learning/denoising_autoencoder.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/wiset_2020_06/blob/master/material/deep_learning/denoising_autoencoder.ipynb)
+기타 자료
 - 흥미로운 딥러닝 결과 : [some_interesting_deep_learning.pptx](material/deep_learning/some_interesting_deep_learning.pptx)
 - yolo를 사용한 실시간 불량품 탐지 사례 : [yolo_in_field.mp4](material/deep_learning/yolo_in_field.mp4)
 - GAN을 사용한 생산설비 이상 탐지 : [anomaly_detection_using_gan.pptx](material/deep_learning/anomaly_detection_using_gan.pptx)
