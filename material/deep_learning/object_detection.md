@@ -53,7 +53,7 @@ https://github.com/qqwweee/keras-yolo3
 
 <br>
 
-- 실습 자료 : [object_detection_yolo_keras.ipynb](object_detection_yolo_keras.ipynb)
+- 실습 자료 : [object_detection_yolo_keras.ipynb](object_detection_yolo_keras.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/wiset_2020_06/blob/master/material/deep_learning/object_detection_yolo_keras.ipynb)
 
 
 # YOLO 커스텀 데이터 학습
