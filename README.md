@@ -242,7 +242,7 @@ TensorFlow/Keras
 - 알파고 이해하기 : [understanding_ahphago.pptx](material/deep_learning/understanding_ahphago.pptx)
 - 영역 분할(segmentation) - U-Net : [unet_segementation.ipynb](material/deep_learning/unet_segementation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/wiset_2020_06/blob/master/material/deep_learning/unet_segementation.ipynb)
 - 얼굴 인식(face recognition) : [Face_Recognition.ipynb](material/deep_learning/Face_Recognition.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/wiset_2020_06/blob/master/material/deep_learning/Face_Recognition.ipynb)
-- GAN 이해하기 : [deep_learning_intro.pptx](material/deep_learning//deep_learning_intro.pptx), [dcgan_mnist.ipynb](material/deep_learning/dcgan_mnist.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/wiset_2020_06/blob/master/material/deep_learning/dcgan_mnist.ipynb)
+- GAN 이해하기 : [deep_learning_intro.pptx](material/deep_learning//deep_learning_intro.pptx), [wgan_pg_mnist.ipynb.ipynb](material/deep_learning/wgan_pg_mnist.ipynb.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/wiset_2020_06/blob/master/material/deep_learning/wgan_pg_mnist.ipynb.ipynb)
 - RNN 이해하기
 - 강화학습 이해하기
 
