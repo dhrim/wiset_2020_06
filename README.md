@@ -295,6 +295,7 @@ TensorFlow/Keras
 - pandas, matplot : [ibrary.md](material/library.md)
 
 기타 자료
+- Cycle GAN 리뷰 : [cycle_gan.pdf](material/cycle_gan.pdf)
 - 흥미로운 딥러닝 결과 : [some_interesting_deep_learning.pptx](material/deep_learning/some_interesting_deep_learning.pptx)
 - yolo를 사용한 실시간 불량품 탐지 사례 : [yolo_in_field.mp4](material/deep_learning/yolo_in_field.mp4)
 - GAN을 사용한 생산설비 이상 탐지 : [anomaly_detection_using_gan.pptx](material/deep_learning/anomaly_detection_using_gan.pptx)
