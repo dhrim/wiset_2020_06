@@ -261,7 +261,7 @@ TensorFlow/Keras
 <br>
 
 ## 5일차
-
+- 논문 리뷰와 논문 재현 : [의학 논문 리뷰](https://docs.google.com/presentation/d/1SZ-m4XVepS94jzXDL8VFMN2dh9s6jaN5fVsNhQ1qwEU/edit)
 - Kaggle 문제 풀이 리뷰
     - Intel Image Classification https://www.kaggle.com/puneet6060/intel-image-classification/kernels
 		- https://www.kaggle.com/uzairrj/beg-tut-intel-image-classification-93-76-accur
