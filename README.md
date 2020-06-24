@@ -254,7 +254,7 @@ TensorFlow/Keras
     - YOLO : [object_detection.md](material/deep_learning/object_detection.md)
     - RetinaNet : [object_detection_retinanet.ipynb](material/deep_learning/object_detection_retinanet.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/wiset_2020_06/blob/master/material/deep_learning/object_detection_retinanet.ipynb)
     - annotation tool : https://github.com/virajmavani/semi-auto-image-annotation-tool
-- Keras Function API style : [functional_api.ipynb](material/functional_api.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/wiset_2020_06/blob/master/material/deep_learning/functional_api.ipynb)
+- Keras Functional API : [functional_api.ipynb](material/functional_api.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/wiset_2020_06/blob/master/material/deep_learning/functional_api.ipynb)
 - 딥러닝 개발 계획 리뷰
 
 
@@ -271,8 +271,6 @@ TensorFlow/Keras
     - COVID19 Global Forecasting https://www.kaggle.com/c/covid19-global-forecasting-week-3
         - sigmoid model : https://www.kaggle.com/corochann/covid-19-eda-with-recent-update-on-april
         - linear model : https://www.kaggle.com/aerdem4/covid-19-basic-model-not-leaky
-
-
 - 딥러닝 채용 공고 리뷰
 
 
