@@ -249,7 +249,8 @@ TensorFlow/Keras
 <br>
 
 ## 4일차
-- text 분류 : [text_classification.ipynb](material/deep_learning/text_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/wiset_2020_06/blob/master/material/deep_learning/text_classification.ipynb)
+- text 분류 - CNN, RNN 사용한 : [text_classification.ipynb](material/deep_learning/text_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/wiset_2020_06/blob/master/material/deep_learning/text_classification.ipynb)
+- RNN을 사용한 MNIST 분류 : [mnist_rnn.ipynb]](material/mnist_rnn.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/wiset_2020_06/blob/master/material/deep_learning/mnist_rnn.ipynb)
 - 물체 탐지(Object Detection) 
     - YOLO : [object_detection.md](material/deep_learning/object_detection.md)
     - RetinaNet : [object_detection_retinanet.ipynb](material/deep_learning/object_detection_retinanet.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/wiset_2020_06/blob/master/material/deep_learning/object_detection_retinanet.ipynb)
